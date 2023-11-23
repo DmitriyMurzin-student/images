@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pictures_App</string>
+    <string name="phone">Телефон:</string>
+    <string name="fiofield">Адрес:</string>
+    <string name="fio">Фамилия, Имя, Отчество:</string>
+    <string name="H1">Белый слон</string>
+</resources>
